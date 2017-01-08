@@ -1,0 +1,62 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Ferreira, D
+   Clark, AR
+   Almada-Lobo, B
+   Morabito, R
+AF Ferreira, Deisemara
+   Clark, Alistair R.
+   Almada-Lobo, Bernardo
+   Morabito, Reinaldo
+TI Single-stage formulations for synchronised two-stage lot sizing and
+   scheduling in soft drink production
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+LA English
+DT Article
+DE Production lot-scheduling models; Asymmetric travelling salesman
+   problem; Soft drink industry
+ID SEQUENCE-DEPENDENT SETUP; PARALLEL MACHINES; COSTS; MODELS; TIMES;
+   OPPORTUNITIES; EXTENSIONS; ALGORITHMS
+AB This study deals with industrial processes that produce soft drink bottles in different flavours and sizes, carried out in two synchronised production stages: liquid preparation and bottling. Four single-stage formulations are proposed to solve the synchronised two-stage lot sizing and scheduling problem in soft drink production synchronising the first stage's syrup lots in tanks with the second stage's soft drink lots on bottling lines. The first two formulations are variants of the General Lot Sizing and Scheduling Problem (GLSP) with sequence-dependent setup times and costs, while the other two are based on the Asymmetric Travelling Salesman Problem (ATSP) with different subtour elimination constraints. All models are computationally tested and compared to the original two-stage formulation introduced in Ferreira et al. (2009), using data based on a real-world bottling plant. The results show not only the superiority of the single-stage models if compared to the two-stage formulation, but also the much faster solution times of the ATSP-based models. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Ferreira, Deisemara] Univ Fed Triangulo Mineiro, Dept Appl Math, Uberaba, Brazil.
+   [Clark, Alistair R.] Univ W England, Dept Engn Design & Math, Bristol BS16 1QY, Avon, England.
+   [Almada-Lobo, Bernardo] Univ Porto, Fac Engn, P-4100 Oporto, Portugal.
+   [Morabito, Reinaldo] Univ Fed Sao Carlos, Dept Prod Engn, BR-13560 Sao Carlos, SP, Brazil.
+RP Ferreira, D (reprint author), Rua Dr Randolfo Borges Jr 1250, BR-38064200 Uberaba, MG, Brazil.
+EM deisemara@icte.uftm.edu.br; Alistair.Clark@uwe.ac.uk;
+   almada.lobo@fe.up.pt; morabito@ufscar.br
+RI Morabito, Reinaldo/G-4866-2012; 
+OI Morabito, Reinaldo/0000-0002-3948-305X; Almada-Lobo,
+   Bernardo/0000-0003-0815-1068
+FU FAPESP; CAPES; CNPq; IRSES
+FX The authors would like to thank the referees for their very helpful
+   feedback and FAPESP, CAPES, CNPq and an FP7 Marie Curie "People" IRSES
+   grant for the supporting this research.
+NR 48
+TC 16
+Z9 17
+U1 1
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0925-5273
+J9 INT J PROD ECON
+JI Int. J. Prod. Econ.
+PD APR
+PY 2012
+VL 136
+IS 2
+BP 255
+EP 265
+DI 10.1016/j.ijpe.2011.11.028
+PG 11
+WC Engineering, Industrial; Engineering, Manufacturing; Operations Research
+   & Management Science
+SC Engineering; Operations Research & Management Science
+GA 912SM
+UT WOS:000301820200001
+ER
+
+EF
