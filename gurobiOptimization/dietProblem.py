@@ -13,6 +13,11 @@ categories, minNutrition, maxNutrition = multidict({
   'fat':      [0, 65],
   'sodium':   [0, 1779] })
 
+print(categories)
+print(minNutrition)
+print(maxNutrition)
+
+
 
 foods, cost = multidict({
   'hamburger': 2.49,
@@ -24,6 +29,9 @@ foods, cost = multidict({
   'salad':     2.49,
   'milk':      0.89,
   'ice cream': 1.59 })
+
+print(foods)
+print(cost)
 
 # Nutrition values for the foods
 nutritionValues = {
