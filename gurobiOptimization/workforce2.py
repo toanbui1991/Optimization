@@ -91,7 +91,7 @@ if status != GRB.Status.INF_OR_UNBD and status != GRB.Status.INFEASIBLE:
 
 # do IIS
 print('The model is infeasible; computing IIS')
-removed = []
+removed = [] #to store removed constraints
 
 # Loop until we reduce to a model that can be solved
 while True:

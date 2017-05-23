@@ -94,7 +94,7 @@ if status != GRB.Status.INF_OR_UNBD and status != GRB.Status.INFEASIBLE:
 
 # Relax the constraints to make the model feasible
 print('The model is infeasible; relaxing the constraints')
-orignumvars = m.NumVars
+orignumvars = m.NumVars #get the number of original number of dececion variable
 #the line below is very important lesson. Adding slack variable.
 m.feasRelaxS(0, False, False, True) #add slack variable
 m.optimize() #resolve
