@@ -417,3 +417,46 @@ Iteration    Objective       Primal Inf.    Dual Inf.      Time
 
 Solved in 2 iterations and 0.01 seconds
 Optimal objective  9.371517857e+04
+Optimize a model with 143 rows, 126 columns and 432 nonzeros
+Variable types: 96 continuous, 30 integer (30 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [5e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 5e+02]
+Found heuristic solution: objective -75000
+Presolve removed 48 rows and 66 columns
+Presolve time: 0.11s
+Presolved: 95 rows, 60 columns, 272 nonzeros
+Found heuristic solution: objective -48100.00000
+Variable types: 35 continuous, 25 integer (25 binary)
+
+Root relaxation: objective 1.056500e+05, 53 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 105650.000    0    6 -48100.000 105650.000   320%     -    0s
+H    0     0                    99828.703704 105650.000  5.83%     -    0s
+H    0     0                    100278.70370 105650.000  5.36%     -    0s
+     0     0 105650.000    0    6 100278.704 105650.000  5.36%     -    0s
+     0     0 105650.000    0    7 100278.704 105650.000  5.36%     -    0s
+     0     0 105650.000    0    9 100278.704 105650.000  5.36%     -    0s
+     0     0 105650.000    0    7 100278.704 105650.000  5.36%     -    0s
+     0     0 105650.000    0    7 100278.704 105650.000  5.36%     -    0s
+     0     2 105650.000    0    7 100278.704 105650.000  5.36%     -    0s
+
+Cutting planes:
+  Gomory: 1
+  Implied bound: 3
+  MIR: 7
+  Flow cover: 15
+
+Explored 416 nodes (2095 simplex iterations) in 0.26 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 100279 99828.7 -48100 
+Pool objective bound 100279
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.002787037037e+05, best bound 1.002787037037e+05, gap 0.0000%
