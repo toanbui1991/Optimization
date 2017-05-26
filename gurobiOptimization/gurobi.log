@@ -460,3 +460,19 @@ Pool objective bound 100279
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 1.002787037037e+05, best bound 1.002787037037e+05, gap 0.0000%
+Optimize a model with 30 rows, 72 columns and 117 nonzeros
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e+01, 8e+02]
+  RHS range        [2e+02, 3e+03]
+Presolve removed 18 rows and 44 columns
+Presolve time: 0.00s
+Presolved: 12 rows, 28 columns, 56 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4000000e+02   5.187500e+02   0.000000e+00      0s
+       8    8.4179688e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 8 iterations and 0.01 seconds
+Optimal objective  8.417968750e+02
